@@ -15,7 +15,7 @@ Welcome to my GitHub! I'm a Computer Science student at the Polish-Japanese Acad
 ## 🌟 Key Projects
 
 ### [Pokémon Fan Application](https://github.com/Szy-Ban/Pokemon-Fan-Application)
-A Next.js application for Pokémon fans that fetches data from PokeAPI to display detailed Pokémon stats, abilities, and images.
+A Next.js application for Pokémon fans that fetches data from PokeAPI to display detailed Pokémon stats and abilities.
 - **Features**: Dynamic routing, filtering and sorting by type, SEO-friendly metadata, error handling, smooth navigation.
 - **Tech Stack**: Next.js, React, PokeAPI, JavaScript
 
