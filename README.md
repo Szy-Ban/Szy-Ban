@@ -35,7 +35,7 @@ A personal expense tracking app that allows users to categorize, view, filter, a
 Collaborated with production, QA, and development teams to resolve player issues. Managed community interactions on Discord and social media, organized in-game events, and recommended gameplay improvements based on player feedback.
 
 ### Freight Automation by HOGS – Web Developer & Tester Intern
-Assisted in testing and documenting a web application, improving functionality and user experience. Contributed to building a website for a transportation company, working closely with the team on efficient content generation.
+Assisted in testing and documenting a web application, improving functionality and user experience. Contributed to building a website for a transportation company, working closely with the team.
 
 ## 📫 Connect with Me
 
