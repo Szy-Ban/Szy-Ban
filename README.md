@@ -1,47 +1,80 @@
 # Hi there, I'm Szymon Baniewicz! 👋
 
-Welcome to my GitHub! I'm a Computer Science student at the Polish-Japanese Academy of Information Technology with hands-on experience in web development, customer support, and application testing. I'm passionate about building efficient, user-friendly applications and continuously expanding my technical knowledge.
+Welcome to my GitHub! I'm a **full-stack web developer** and **aspiring project manager** with a strong background in modern web technologies. Currently, I'm pursuing an **Engineer's Degree in Computer Science** at the **Polish-Japanese Academy of Information Technology** in Gdańsk, specializing in **Web Applications**.
 
-## 🔧 Skills & Technologies
-
-- **Languages**: JavaScript, Java, PHP
-- **Frontend Development**: React, Next.js, HTML, CSS, LESS, SASS
-- **Backend Development**: Node.js, Spring, Spring Boot
-- **Databases**: MySQL, PostgreSQL
-- **Tools**: GitHub, GitLab, JetBrains, Visual Studio Code
-- **Cloud**: Amazon Web Services (EC2, RDS, S3)
-- **Collaboration**: SCRUM, Jira, Confluence, Zendesk, Slack, Discord
-
-## 🌟 Key Projects
-
-### [Pokémon Fan Application](https://github.com/Szy-Ban/Pokemon-Fan-Application)
-A Next.js application for Pokémon fans that fetches data from PokeAPI to display detailed Pokémon stats and abilities.
-- **Features**: Dynamic routing, filtering and sorting by type, SEO-friendly metadata, error handling, smooth navigation.
-- **Tech Stack**: Next.js, React, PokeAPI, JavaScript
-
-### [Real Estate Agency System](https://github.com/Szy-Ban/wprg-project)
-A management system for real estate listings, featuring secure login, role-based access, and CRUD operations for properties and agents.
-- **Features**: 11-table MySQL database, responsive design, filtering and CRUD operations, secure password encryption.
-- **Tech Stack**: HTML, CSS, JavaScript, PHP, MySQL
-
-### [Expense Tracking System](https://github.com/Szy-Ban/Expense-Tracking-System)
-A personal expense tracking app that allows users to categorize, view, filter, and delete expenses in real-time.
-- **Features**: JSON-based data storage, real-time filtering, and deletion with state management using `useState`.
-- **Tech Stack**: Next.js, React, JSON, CSS, JavaScript
-
-## 📈 Experience
-
-### Vivid Games S.A – Customer Support Specialist
-Collaborated with production, QA, and development teams to resolve player issues. Managed community interactions on Discord and social media, organized in-game events, and recommended gameplay improvements based on player feedback.
-
-### Freight Automation by HOGS – Web Developer & Tester Intern
-Assisted in testing and documenting a web application, improving functionality and user experience. Contributed to building a website for a transportation company, working closely with the team.
-
-## 📫 Connect with Me
-
-- **LinkedIn**: [Szymon Baniewicz](https://www.linkedin.com/in/szymon-baniewicz/)
-- **GitHub**: [Szy-Ban](https://github.com/Szy-Ban)
+I love building **scalable** and **user-friendly applications**, leading development teams, and improving workflow efficiency. 🚀 
 
 ---
 
-Looking forward to contributing to open-source projects, collaborating on innovative ideas, and further developing my skills in software development. Let's connect!
+## 🔧 Tech Stack
+
+### **Frontend**
+- **Languages**: JavaScript, HTML, CSS, LESS
+- **Libraries & Frameworks**: React, Next.js, Tailwind CSS
+
+### **Backend**
+- **Languages**: Node.js, Java
+- **Frameworks**: Express.js, Spring Boot
+- **Databases**: PostgreSQL, MySQL, MongoDB
+
+### **Tools & Workflow**
+- **Version Control**: GitHub, GitLab
+- **Project Management**: Jira, Confluence, Trello
+- **Collaboration & Communication**: Slack, Discord, Google Workspace, Microsoft Office
+- **Prototyping & Design**: Figma
+- **Cloud**: AWS (EC2, RDS, S3)
+
+---
+
+## 🚀 Featured Projects
+
+### 📚 [Inkspire – Bookstore Web App](https://github.com/szy-ban/inkspire)
+A full-stack **e-commerce platform** for browsing and purchasing books online. 
+- **Tech Stack**: React, Next.js, Tailwind CSS, Express.js, MongoDB
+
+### 🗺️ [infoTravel](https://github.com/infoTravelProject/infoTravel)
+A travel app providing country-specific information using multiple APIs.
+- **Tech Stack**: React, Next.js, Tailwind CSS, Java, Spring Boot, PostgreSQL
+- **Role**: **Team Manager**, responsible for project planning, documentation, and frontend/backend integration.
+
+---
+
+## 💼 Experience
+
+### **Intern - Web Developer & Tester**
+📍 **Freight Automation by HOGS** (Jul 2024 – Sep 2024)  
+- Tested and improved a web application, enhancing functionality and UX.
+- Co-developed a website for a transportation company.
+- Utilized **ChatGPT** for prompt engineering and automation.
+
+### **Intern - Tutor**
+📍 **Zespół Szkół Energetycznych w Gdańsku** (Nov 2024 – Dec 2024)  
+- Conducted **Java/Spring (ORM, JPA, Validation)** lectures and labs.
+- Created course materials, provided consultations, and assessed student progress.
+
+### **Customer Support Specialist**
+📍 **Vivid Games S.A** (May 2020 – Aug 2020)  
+- Managed player inquiries in a **SCRUM** environment.
+- Maintained game roadmaps, handled community engagement, and supported QA teams.
+
+### **Vice President of the Student Council**
+📍 **Polish-Japanese Academy of IT** (2024 – Present)
+- Organising university events and representing student interests.
+
+---
+
+## 📜 Certifications
+- **EE.08** | Computer Systems, Peripheral Devices & Network Maintenance
+- **EE.09** | Programming, Web Development, and Database Administration
+- **CCNA** | Introduction to Networks
+
+---
+
+## 📫 Let's Connect!
+- **LinkedIn**: [Szymon Baniewicz](https://linkedin.com/in/szymon-baniewicz/)
+- **GitHub**: [Szy-Ban](https://github.com/szy-ban)
+- **Email**: [baniewiczszymonn@gmail.com](mailto:baniewiczszymonn@gmail.com)
+
+---
+
+I'm always open to **collaborating on exciting projects** or discussing new opportunities. Let's build something awesome together! 🚀
