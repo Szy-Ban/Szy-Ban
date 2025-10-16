@@ -1,4 +1,4 @@
-![Header](./banner.png)
+![Header](./Linkedin Banner (9).png)
 
 # 👋 Hi, I'm Szymon Baniewicz
 
