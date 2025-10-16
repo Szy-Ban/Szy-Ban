@@ -34,6 +34,7 @@ If you’re working on something exciting or simply want to connect, I’d love 
 
 ### ☁️ **Cloud & DevOps**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=fff)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=fff)
 
 ### 📊 **Design & Analytics**
@@ -108,10 +109,10 @@ I'm currently exploring tools and concepts that help improve frontend scalabilit
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=fff)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=fff)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=fff)
-![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=fff)
 ![ShadCN/UI](https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge&logoColor=fff)
 ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=fff)
 ![AI_Tools](https://img.shields.io/badge/AI_Tools-412991?style=for-the-badge&logo=openai&logoColor=fff)
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=fff)
 
 ---
 
