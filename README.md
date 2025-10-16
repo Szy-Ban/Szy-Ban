@@ -17,11 +17,11 @@ If you’re working on something exciting or simply want to connect, I’d love 
 I'm currently exploring tools and concepts that help improve frontend scalability, testing, and design systems.
 
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=fff)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=fff)
 ![ShadCN/UI](https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge&logoColor=fff)
 ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=fff)
 ![AI_Tools](https://img.shields.io/badge/AI_Tools-412991?style=for-the-badge&logo=openai&logoColor=fff)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=fff)
-![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=fff)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=fff)
 
 ---
@@ -55,7 +55,7 @@ I'm currently exploring tools and concepts that help improve frontend scalabilit
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=fff)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000)
-![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=fff)
+![Microsoft Excel](https://img.shields.io/badge/MS_Excel-1D6F42?style=for-the-badge&logo=microsoft-excel&logoColor=fff)
 
 ### 🧩 **Team & Workflow**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
