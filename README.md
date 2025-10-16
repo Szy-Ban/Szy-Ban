@@ -56,22 +56,18 @@ If you’re working on something exciting or simply want to connect, I’d love 
 
 ## 💼 Experience
 
-**Intern – Web Developer & Tester** @ *Freight Automation by HOGS* (Jul 2024 – Sep 2024) · Remote  
-- Tested and improved a web application to enhance functionality and UX.  
-- Co-developed a client website and maintained internal documentation.  
-- Used ChatGPT (prompt engineering) to automate content generation.
+**Intern – Development Department** @ *Gdańskie Centrum Informatyczne* (Jul 2025 – Sep 2025) · Gdańsk  
+- Automation and optimization of administrative procedures.  
+- Data visualization and participation in the design/documentation process.
 
 **Intern – Tutor** @ *Zespół Szkół Energetycznych w Gdańsku* (Nov 2024 – Dec 2024) · Gdańsk  
 - Conducted lectures and labs in Java/Spring (ORM, JPA, validation).  
 - Prepared materials and supported students during consultations.
 
-**Intern – Development Department** @ *Gdańskie Centrum Informatyczne* (Jul 2025 – Sep 2025) · Gdańsk  
-- Automation and optimization of administrative procedures.  
-- Data visualization and participation in the design/documentation process.
-
-**Bachelor Thesis Intern** @ *Freight Automation by HOGS* (Apr 2025 – Feb 2026) · Remote  
-- Team project: platform to streamline logistics and collaboration with transport subcontractors.  
-- Tech: TypeScript, Nest.js, React, Tailwind.
+**Intern – Web Developer & Tester** @ *Freight Automation by HOGS* (Jul 2024 – Sep 2024) · Remote  
+- Tested and improved a web application to enhance functionality and UX.  
+- Co-developed a client website and maintained internal documentation.  
+- Used ChatGPT (prompt engineering) to automate content generation.
 
 ---
 
