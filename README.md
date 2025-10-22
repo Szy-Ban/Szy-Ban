@@ -42,6 +42,8 @@ I'm currently exploring tools and concepts that help improve frontend scalabilit
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=fff)
+
+### 🗄️ **Database Management**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=fff)
@@ -71,18 +73,22 @@ I'm currently exploring tools and concepts that help improve frontend scalabilit
 
 ## 💼 Experience
 
-**Intern – Development Department** @ *Gdańskie Centrum Informatyczne* (Jul 2025 – Sep 2025) · Gdańsk  
-- Automation and optimization of administrative procedures.  
-- Data visualization and participation in the design/documentation process.
+**Intern – Development Department** @ *Gdańskie Centrum Informatyczne*  
+📍 Gdańsk · *Jul 2025 – Sep 2025*  
+- Automated and optimized administrative procedures.  
+- Performed data visualization and analysis to support decision-making.  
+- Participated in the system design process and created documentation.  
 
-**Intern – Tutor** @ *Zespół Szkół Energetycznych w Gdańsku* (Nov 2024 – Dec 2024) · Gdańsk  
-- Conducted lectures and labs in Java/Spring (ORM, JPA, validation).  
-- Prepared materials and supported students during consultations.
+**Intern – Tutor** @ *Zespół Szkół Energetycznych w Gdańsku*  
+📍 Gdańsk · *Nov 2024 – Dec 2024*  
+- Conducted lectures and lab sessions introducing Java and Spring concepts (ORM, JPA, validation).  
+- Created learning materials and guided students through practical exercises.  
 
-**Intern – Web Developer & Tester** @ *Freight Automation by HOGS* (Jul 2024 – Sep 2024) · Remote  
-- Tested and improved a web application to enhance functionality and UX.  
-- Co-developed a client website and maintained internal documentation.  
-- Used ChatGPT (prompt engineering) to automate content generation.
+**Intern – Web Developer & Tester** @ *Freight Automation by HOGS*  
+📍 Remote · *Jul 2024 – Sep 2024*  
+- Collaborated with the team to co-develop a website for a logistics company.  
+- Assisted in testing a web application, improving its UI and UX.  
+- Engaged in prompt engineering using LLMs to automate content generation.  
 
 ---
 
